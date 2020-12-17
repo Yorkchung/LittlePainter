@@ -1,0 +1,12 @@
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\bin\Debug\LittlePainter.exe.config
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\bin\Debug\LittlePainter.exe
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\bin\Debug\LittlePainter.pdb
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.csprojResolveAssemblyReference.cache
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.Form1.resources
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.Properties.Resources.resources
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.csproj.GenerateResource.cache
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.csproj.CoreCompileInputs.cache
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.exe
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.pdb
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.Form2.resources
+D:\視窗程式設計\HW\LittlePainter\LittlePainter\obj\Debug\LittlePainter.Form3.resources
